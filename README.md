@@ -1,1 +1,1 @@
-# Analog-clock
+# Digital-clock
